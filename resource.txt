@@ -1,0 +1,9 @@
+source_jenkins_username
+source_jenkins_password
+source_jenkins_url
+destination_jenkins_username
+destination_jenkins_password
+destination_jenkins_url
+destination_user_token
+system_folder_path_to_save_pluginInfo.txt_file
+system_folder_path_to_save_jobConfig_file
